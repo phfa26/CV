@@ -44,3 +44,37 @@ Completed Introduction to Web Development (HTML, CSS, Design and Planning), C++ 
 #### Software Engineering Immersive
 **General Assembly | Aug 2019 - Feb 2020**
 Intensive web development boot camp focused on acquiring problem-solving skills. HTML, CSS, JS, jQuery, Bootstrap, Ruby on Rails, React, Express, Node.js, MongoDB, SQL, Postgres, Github, and Heroku.
+
+### DEV SKILLS
+- JavaScript
+- TypeScript
+- React.js
+- React Native
+- iOS Apps
+- Android Apps
+- Node.js
+- Express
+- AWS/GCP
+- GraphQL
+- Git
+- HTML/CSS
+- SASS
+- Bootstrap
+- SQL
+- MongoDB
+- Wordpress
+- Test-driven Dev.
+- Lint
+- Web3
+- Solidity
+- And more...
+
+### CERTIFICATIONS
+- Scrum Fundamentals
+- Scrum Master
+
+### PERSONAL SKILLS
+- Motivated and hands-on person
+- Creative
+- Problem solver
+- Growth mindset
