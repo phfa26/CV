@@ -59,7 +59,7 @@
 ### ACADEMIC HISTORY
 
 #### Graduate Certificate in Cyber Security
-**UNSW Sydney | Jul 2023 - in progress**
+**UNSW Sydney | Jul 2023 - Jun 2024**
 - This course is providing me with a comprehensive introduction to security engineering principles and practices for the design, operation, and assurance of secure systems.
 
 
